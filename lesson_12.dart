@@ -2,7 +2,10 @@ void main(){
 
 //Ornek 1:
 var sayi = 10 ;
+print(sayi);
 int numara = 88;
+print(numara);
+
 
 //Ornek 2:
 var fiyat = 12.99;
