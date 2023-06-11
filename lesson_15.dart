@@ -20,5 +20,4 @@ blok yorum 2
 
 
 
-
 }
