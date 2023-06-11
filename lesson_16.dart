@@ -1,5 +1,5 @@
 void main(){
-//Aritmetik Operatorler 11 June
+//Aritmetik Operatorler 10 June
 //Daire Alani
 final pi = 3.14;
 var yariCap = 2.0;
