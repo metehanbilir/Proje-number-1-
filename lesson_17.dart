@@ -1,7 +1,7 @@
 void main(){
 /*Tur Donusumu 11 June
 sayisaldan sayisala,sayisaldan metine,metinden sayisala donusum gorecegiz.
-toDouble(),roInt(),toString(),int.parsel(),double.parsel()
+toDouble(),roInt(),toString(),int.parse(),double.parse()
 */
 
 //Sayisaldan sayisala donusum.
@@ -21,7 +21,6 @@ print (strl2);
 //Metinden Sayisala 
 String yazi1 = "34";
 String yazi2 = "34.67";
-
 int s1 = int.parse(yazi1);
 double s2 = double.parse(yazi2);
 print(s1);
